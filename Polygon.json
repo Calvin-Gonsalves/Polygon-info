@@ -95,43 +95,43 @@
       "url": "https://polygonscan.com/"
     },
     {
-      "name": "Polygon Explorer (Blockchair)",
+      "name": "Blockchair",
       "url": "https://blockchair.com/polygon"
     },
     {
-      "name": "Parsec (Polygon)",
+      "name": "Parsec",
       "url": "https://parsec.fi/"
     },
     {
-      "name": "OKLink (Polygon)",
+      "name": "OKLink",
       "url": "https://www.oklink.com/polygon"
     },
     {
-      "name": "Polygon Explorer (Ethplorer)",
+      "name": "Ethplorer",
       "url": "https://ethplorer.io/"
     },
     {
-      "name": "TokenView (Polygon)",
+      "name": "TokenView",
       "url": "https://polygon.tokenview.io/"
     },
     {
-      "name": "3xpl (Polygon)",
+      "name": "3xpl",
       "url": "https://3xpl.com/polygon"
     },
     {
-      "name": "BlockSec (Polygon)",
+      "name": "BlockSec",
       "url": "https://phalcon.blocksec.com/explorer"
     },
     {
-      "name": "OpenChain (Polygon)",
+      "name": "OpenChain",
       "url": "https://openchain.xyz/trace"
     },
     {
-      "name": "Tenderly (Polygon)",
+      "name": "Tenderly",
       "url": "https://dashboard.tenderly.co/explorer"
     },
     {
-      "name": "Dedaub (Polygon)",
+      "name": "Dedaub",
       "url": "https://app.dedaub.com/?network=polygon"
     }
   ],
